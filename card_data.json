@@ -1,0 +1,2897 @@
+[
+    {
+        "name": "Oddish",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Gloom",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Bellossom",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Tangela",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Tangrowth",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Yanma",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Yanmega ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Roselia",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Roserade",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Turtwig",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Grotle",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Torterra",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Kricketot",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Kricketune",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Burmy",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Wormadam",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Combee",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Vespiquen",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Carnivine",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Leafeon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Mow Rotom",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Shaymin",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Magmar",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Magmortar",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Slugma",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Magcargo",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Chimchar",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Monferno",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Infernape ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Heat Rotom",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Swinub",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Piloswine",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Mamoswine",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Regice",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Piplup",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Prinplup",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Empoleon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Buizel",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Floatzel",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Shellos",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Gastrodon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Finneon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Lumineon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Snover",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Abomasnow",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Glaceon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Wash Rotom",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Frost Rotom",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Palkia ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Manaphy",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Magnemite",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Magneton",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Magnezone",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Voltorb",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Electrode",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Electabuzz",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Electivire",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Shinx",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Luxio",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Luxray",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Pachirisu ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Rotom",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Togepi",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Togetic",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Togekiss",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Misdreavus",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Mismagius ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Ralts",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Kirlia",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Duskull",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Dusclops",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Dusknoir",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Drifloon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Drifblim",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Uxie",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Mesprit",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Azelf",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Giratina",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Cresselia",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Rhyhorn",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Rhydon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Rhyperior",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Gligar",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Gliscor",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Hitmontop",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Nosepass",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Regirock",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Cranidos",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Rampardos",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Wormadam",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Riolu",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Lucario",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Hippopotas",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Hippowdon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Gallade ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Murkrow",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Honchkrow",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Sneasel",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Weavile ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Poochyena",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Mightyena",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Stunky",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Skuntank",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Spiritomb",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Skorupi",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Drapion",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Croagunk",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Toxicroak",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Darkrai",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Darkrai ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Skarmory",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Registeel",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Shieldon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Bastiodon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Wormadam",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Bronzor",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Bronzong",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Probopass",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Dialga ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Heatran",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Gible",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Gabite",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Garchomp",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Lickitung",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Lickilicky ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Eevee",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Porygon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Porygon2",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Porygon-Z",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Aipom",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Ambipom",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Starly",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Staravia",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Staraptor",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Bidoof",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Bibarel",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Buneary",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Lopunny",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Glameow",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Purugly",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Chatot",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Fan Rotom",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Regigigas",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Skull Fossil",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Armor Fossil",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "D"
+    },
+    {
+        "name": "Pok\u00e9mon Communication",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Giant Cape",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Rocky Helmet",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Lum Berry",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Cyrus",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Team Galactic Grunt",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Cynthia",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Volkner",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Dawn",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Mars",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "DD"
+    },
+    {
+        "name": "Tangrowth",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Combee",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Carnivine",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Shaymin",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Mamoswine",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Gastrodon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Manaphy",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Shinx",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Rotom",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Drifloon",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Mesprit",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Giratina",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Cresselia",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Rhyperior",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Lucario",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Hippopotas",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Spiritomb",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Croagunk",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Heatran",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Garchomp",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Staraptor",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Bidoof",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Glameow",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Regigigas",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "S"
+    },
+    {
+        "name": "Yanmega ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Infernape ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Palkia ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Pachirisu ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Mismagius ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Gallade ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Weavile ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Darkrai ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Dialga ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Lickilicky ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Cyrus",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Team Galactic Grunt",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Cynthia",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Volkner",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Dawn",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Mars",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Yanmega ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Infernape ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Pachirisu ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Mismagius ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Gallade ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Weavile ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Darkrai ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Lickilicky ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SS"
+    },
+    {
+        "name": "Palkia ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SSS"
+    },
+    {
+        "name": "Dialga ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "SSS"
+    },
+    {
+        "name": "Palkia ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "Crown Rare"
+    },
+    {
+        "name": "Dialga ex",
+        "set": "Space-Time Smackdown - A2",
+        "rarity": "Crown Rare"
+    },
+    {
+        "name": "Exeggcute",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Exeggutor",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Celebi ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Snivy",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Servine",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Serperior",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Morelull",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Shiinotic",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Dhelmise",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Ponyta",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Rapidash",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Magmar",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Larvesta",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Volcarona",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Salandit",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Salazzle",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Magikarp",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Gyarados ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Vaporeon",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Finneon",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Lumineon",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Chewtle",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Drednaw",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Cramorant",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Pikachu",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Raichu",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Electabuzz",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Joltik",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Galvantula",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Dedenne",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Mew",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Mew ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Sigilyph",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Elgyem",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Beheeyem",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Flab\u00e9b\u00e9",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Floette",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Florges",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Swirlix",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Slurpuff",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Mankey",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Primeape",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Geodude",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Graveler",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Golem",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Aerodactyl ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Marshadow",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Stonjourner",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Koffing",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Weezing",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Purrloin",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Liepard",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Venipede",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Whirlipede",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Scolipede",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Druddigon",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Pidgey",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Pidgeotto",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Pidgeot ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Tauros",
+        "set": "Mythical Island - A1a",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Eevee",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Chatot",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Old Amber",
+        "set": "Mythical Island - A1a",
+        "rarity": "D"
+    },
+    {
+        "name": "Pok\u00e9mon Flute",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Mythical Slab",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Budding Expeditioner",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Blue",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Leaf",
+        "set": "Mythical Island - A1a",
+        "rarity": "DD"
+    },
+    {
+        "name": "Exeggutor",
+        "set": "Mythical Island - A1a",
+        "rarity": "S"
+    },
+    {
+        "name": "Serperior",
+        "set": "Mythical Island - A1a",
+        "rarity": "S"
+    },
+    {
+        "name": "Salandit",
+        "set": "Mythical Island - A1a",
+        "rarity": "S"
+    },
+    {
+        "name": "Vaporeon",
+        "set": "Mythical Island - A1a",
+        "rarity": "S"
+    },
+    {
+        "name": "Dedenne",
+        "set": "Mythical Island - A1a",
+        "rarity": "S"
+    },
+    {
+        "name": "Marshadow",
+        "set": "Mythical Island - A1a",
+        "rarity": "S"
+    },
+    {
+        "name": "Celebi ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "SS"
+    },
+    {
+        "name": "Gyarados ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "SS"
+    },
+    {
+        "name": "Mew ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "SS"
+    },
+    {
+        "name": "Aerodactyl ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "SS"
+    },
+    {
+        "name": "Pidgeot ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "SS"
+    },
+    {
+        "name": "Budding Expeditioner",
+        "set": "Mythical Island - A1a",
+        "rarity": "SS"
+    },
+    {
+        "name": "Blue",
+        "set": "Mythical Island - A1a",
+        "rarity": "SS"
+    },
+    {
+        "name": "Leaf",
+        "set": "Mythical Island - A1a",
+        "rarity": "SS"
+    },
+    {
+        "name": "Mew ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "SS"
+    },
+    {
+        "name": "Aerodactyl ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "SS"
+    },
+    {
+        "name": "Celebi ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "SSS"
+    },
+    {
+        "name": "Mew ex",
+        "set": "Mythical Island - A1a",
+        "rarity": "Crown Rare"
+    },
+    {
+        "name": "Bulbasaur",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Ivysaur",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Venusaur",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Venusaur ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Caterpie",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Metapod",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Butterfree",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Weedle",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Kakuna",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Beedrill",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Oddish",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Gloom",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Vileplume",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Paras",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Parasect",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Venonat",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Venomoth",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Bellsprout",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Weepinbell",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Victreebel",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Exeggcute",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Exeggutor",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Exeggutor ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Tangela",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Scyther",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Pinsir",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Cottonee",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Whimsicott",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Petilil",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Lilligant",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Skiddo",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Gogoat",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Charmander",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Charmeleon",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Charizard",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Charizard ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Vulpix",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Ninetales",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Growlithe",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Arcanine",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Arcanine ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Ponyta",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Rapidash",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Magmar",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Flareon",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Moltres",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Moltres ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Heatmor",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Salandit",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Salazzle",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Sizzlipede",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Centiskorch",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Squirtle",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Wartortle",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Blastoise",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Blastoise ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Psyduck",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Golduck",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Poliwag",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Poliwhirl",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Poliwrath",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Tentacool",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Tentacruel",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Seel",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Dewgong",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Shellder",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Cloyster",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Krabby",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Kingler",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Horsea",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Seadra",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Goldeen",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Seaking",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Staryu",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Starmie",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Starmie ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Magikarp",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Gyarados",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Lapras",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Vaporeon",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Omanyte",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Omastar",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Articuno",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Articuno ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Ducklett",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Swanna",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Froakie",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Frogadier",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Greninja",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Pyukumuku",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Bruxish",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Snom",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Frosmoth",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Pikachu",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Raichu",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Pikachu ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Magnemite",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Magneton",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Voltorb",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Electrode",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Electabuzz",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Jolteon",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Zapdos",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Zapdos ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Blitzle",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Zebstrika",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Tynamo",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Eelektrik",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Eelektross",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Helioptile",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Heliolisk",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Pincurchin",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Clefairy",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Clefable",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Abra",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Kadabra",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Alakazam",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Slowpoke",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Slowbro",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Gastly",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Haunter",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Gengar",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Gengar ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Drowzee",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Hypno",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Mr. Mime",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Jynx",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Mewtwo",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Mewtwo ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Ralts",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Kirlia",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Gardevoir",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Woobat",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Swoobat",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Golett",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Golurk",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Sandshrew",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Sandslash",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Diglett",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Dugtrio",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Mankey",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Primeape",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Machop",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Machoke",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Machamp",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Machamp ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Geodude",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Graveler",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Golem",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Onix",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Cubone",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Marowak",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Marowak ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Hitmonlee",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Hitmonchan",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Rhyhorn",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Rhydon",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Kabuto",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Kabutops",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Mienfoo",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Mienshao",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Clobbopus",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Grapploct",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Ekans",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Arbok",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Nidoran\u2640",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Nidorina",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Nidoqueen",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Nidoran\u2642",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Nidorino",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Nidoking",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Zubat",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Golbat",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Grimer",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Muk",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Koffing",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Weezing",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Mawile",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Pawniard",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Bisharp",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Meltan",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Melmetal",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Dratini",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Dragonair",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Dragonite",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Pidgey",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Pidgeotto",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Pidgeot",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Rattata",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Raticate",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Spearow",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Fearow",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Jigglypuff",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Wigglytuff",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Wigglytuff ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDDD"
+    },
+    {
+        "name": "Meowth",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Persian",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Farfetch'd",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Doduo",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Dodrio",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Lickitung",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Chansey",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Kangaskhan",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Tauros",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Ditto",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Eevee",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Eevee",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Eevee",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Porygon",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Aerodactyl",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Snorlax",
+        "set": "Genetic Apex - A1",
+        "rarity": "DDD"
+    },
+    {
+        "name": "Minccino",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Cinccino",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Wooloo",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Dubwool",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Helix Fossil",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Dome Fossil",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Old Amber",
+        "set": "Genetic Apex - A1",
+        "rarity": "D"
+    },
+    {
+        "name": "Erika",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Misty",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Blaine",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Koga",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Giovanni",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Brock",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Sabrina",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Lt. Surge",
+        "set": "Genetic Apex - A1",
+        "rarity": "DD"
+    },
+    {
+        "name": "Bulbasaur",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Gloom",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Pinsir",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Charmander",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Rapidash",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Squirtle",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Gyarados",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Lapras",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Electrode",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Alakazam",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Slowpoke",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Diglett",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Cubone",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Nidoqueen",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Nidoking",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Golbat",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Weezing",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Dragonite",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Pidgeot",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Meowth",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Ditto",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Eevee",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Porygon",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Snorlax",
+        "set": "Genetic Apex - A1",
+        "rarity": "S"
+    },
+    {
+        "name": "Venusaur ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Exeggutor ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Charizard ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Arcanine ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Moltres ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Blastoise ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Starmie ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Articuno ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Pikachu ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Zapdos ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Gengar ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Mewtwo ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Machamp ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Marowak ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Wigglytuff ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Erika",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Misty",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Blaine",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Koga",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Giovanni",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Brock",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Sabrina",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Lt. Surge",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Moltres ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Articuno ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Zapdos ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Gengar ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Machamp ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Wigglytuff ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SS"
+    },
+    {
+        "name": "Charizard ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SSS"
+    },
+    {
+        "name": "Pikachu ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SSS"
+    },
+    {
+        "name": "Mewtwo ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "SSS"
+    },
+    {
+        "name": "Mew",
+        "set": "Genetic Apex - A1",
+        "rarity": "SSS"
+    },
+    {
+        "name": "Charizard ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "Crown Rare"
+    },
+    {
+        "name": "Pikachu ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "Crown Rare"
+    },
+    {
+        "name": "Mewtwo ex",
+        "set": "Genetic Apex - A1",
+        "rarity": "Crown Rare"
+    }
+]
