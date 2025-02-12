@@ -1,6 +1,7 @@
 import discord
 from dotenv import load_dotenv
 from discord.ext import commands, tasks
+import re
 import json
 import os
 import requests
@@ -102,13 +103,23 @@ def fetch_card_data():
                 print(f"Error: Failed to extract rarity for {card_url}")
                 card_rarity = "Unknown"  # Default if not found
 
+            # Extract canon_name and set using regex
+            
+            match = re.search(r"(.+?)\n\s{2,}(\w{2,3})$", link.text.strip())
+            if match:
+                canon_name = match.group(1).strip()
+                card_set = match.group(2).strip()
+            else:
+                canon_name = "Unknown"
+                card_set = "Unknown"    
+
             # Add data for this card, including the set name
             card_data.append({
                 "name": card_name,
-                "set": link.text.strip(),  # Use set name from the parent link
+                "set": card_set, 
+                "canon_name": canon_name,
                 "rarity": card_rarity
             })
-            print(card_data)
 
             fetched_urls.add(card_url)  # Track that we've already visited this card URL
         
@@ -125,7 +136,6 @@ def fetch_card_data():
 # Initially load saved card data, if available
 valid_cards = load_card_data()
 
-
 data = load_data()
 
 intents = discord.Intents.default()
@@ -138,8 +148,13 @@ async def on_ready():
     auto_save.start()
 
 @bot.command()
-async def add_trade(ctx, *, card_name: str, set_name: str):
+async def add_trade(ctx, *, parameters: str):
     """Add a card to your trade list."""
+    try:
+        card_name, card_set = parameters.rsplit(' ', 1)
+    except ValueError:
+        await ctx.send("Please provide both the card name and the card set. Usage: !add_wishlist <card_name> <card_set>")
+        return
     if not any(card["name"].lower() == card_name.lower() for card in valid_cards):
         await ctx.send(f'**{card_name}** is not a valid Pokémon TCG card.')
         return
@@ -148,45 +163,77 @@ async def add_trade(ctx, *, card_name: str, set_name: str):
         return    
     user_id = str(ctx.author.id)
     data.setdefault(user_id, {"trade": [], "wishlist": []})
-    if card_name not in data[user_id]["trade"]:
-        data[user_id]["trade"].append(card_name)
-        await ctx.send(f'Added **{card_name}** to your trade list.')
+    trade_entry = {"name": card_name, "set": set_name}
+    if not any(entry["name"].lower() == card_name.lower() and entry["set"].lower() == set_name.lower() for entry in data[user_id]["trade"]):
+        data[user_id]["trade"].append(trade_entry)
+        save_data(data)
+        await ctx.send(f'Added **{card_name}** from set **{set_name}** to your trade list.')
     else:
-        await ctx.send(f'**{card_name}** is already in your trade list.')
+        await ctx.send(f'**{card_name}** from set **{set_name}** is already in your trade list.')
 
 @bot.command()
-async def add_wishlist(ctx, *, card_name: str):
+async def add_wishlist(ctx, *, parameters: str):
     """Add a card to your wishlist."""
+    try:
+        card_name, card_set = parameters.rsplit(' ', 1)
+    except ValueError:
+        await ctx.send("Please provide both the card name and the card set. Usage: !add_wishlist <card_name> <card_set>")
+        return    
     if not any(card["name"].lower() == card_name.lower() for card in valid_cards):
         await ctx.send(f'**{card_name}** is not a valid Pokémon TCG card.')
         return
+    if not any(card["set"].lower() == card_set.lower() for card in valid_cards):
+        await ctx.send(f'**{card_set}** is not a valid Pokémon TCG set.')
+        return
     user_id = str(ctx.author.id)
     data.setdefault(user_id, {"trade": [], "wishlist": []})
-    if card_name not in data[user_id]["wishlist"]:
-        data[user_id]["wishlist"].append(card_name)
-        await ctx.send(f'Added **{card_name}** to your wishlist.')
+    wishlist_entry = {"name": card_name.lower(), "set": card_set.upper()}
+    if not any(entry["name"].lower() == card_name.lower() and entry["set"].lower() == card_set.lower() for entry in data[user_id]["wishlist"]):
+        data[user_id]["wishlist"].append(wishlist_entry)
+        save_data(data)
+        await ctx.send(f'Added **{card_name}** from set **{card_set}** to your wishlist.')
     else:
-        await ctx.send(f'**{card_name}** is already in your wishlist.')
+        await ctx.send(f'**{card_name}** from set **{card_set}** is already in your wishlist.')
 
 @bot.command()
-async def remove_trade(ctx, *, card_name: str):
+async def remove_trade(ctx, *, parameters: str):
     """Remove a card from your trade list."""
+    try:
+        card_name, card_set = parameters.rsplit(' ', 1)
+    except ValueError:
+        await ctx.send("Please provide both the card name and the card set. Usage: !add_wishlist <card_name> <card_set>")
+        return    
     user_id = str(ctx.author.id)
-    if user_id in data and card_name in data[user_id]["trade"]:
-        data[user_id]["trade"].remove(card_name)
-        await ctx.send(f'Removed **{card_name}** from your trade list.')
+    if user_id in data:
+        trade_entry = {"name": card_name.lower(), "set": card_set.upper()}
+        if trade_entry in data[user_id]["trade"]:
+            data[user_id]["trade"].remove(trade_entry)
+            save_data(data)
+            await ctx.send(f'Removed **{card_name}** from set **{card_set}** from your trade list.')
+        else:
+            await ctx.send(f'**{card_name}** from set **{card_set}** is not in your trade list.')
     else:
-        await ctx.send(f'**{card_name}** is not in your trade list.')
+        await ctx.send(f'**{card_name}** from set **{card_set}** is not in your trade list.')
 
 @bot.command()
-async def remove_wishlist(ctx, *, card_name: str):
+async def remove_wishlist(ctx, *, parameters: str):
     """Remove a card from your wishlist."""
+    try:
+        card_name, card_set = parameters.rsplit(' ', 1)
+    except ValueError:
+        await ctx.send("Please provide both the card name and the card set. Usage: !add_wishlist <card_name> <card_set>")
+        return    
     user_id = str(ctx.author.id)
-    if user_id in data and card_name in data[user_id]["wishlist"]:
-        data[user_id]["wishlist"].remove(card_name)
-        await ctx.send(f'Removed **{card_name}** from your wishlist.')
+    if user_id in data:
+        wishlist_entry = {"name": card_name.lower(), "set": card_set.upper()}
+        if wishlist_entry in data[user_id]["wishlist"]:
+            data[user_id]["wishlist"].remove(wishlist_entry)
+            save_data(data)
+            await ctx.send(f'Removed **{card_name}** from set **{card_set}** from your wishlist.')
+        else:
+            await ctx.send(f'**{card_name}** from set **{card_set}** is not in your wishlist.')
     else:
-        await ctx.send(f'**{card_name}** is not in your wishlist.')
+        await ctx.send(f'**{card_name}** from set **{card_set}** is not in your wishlist.')
 
 @bot.command()
 async def view_lists(ctx, member: discord.Member = None):
@@ -195,12 +242,28 @@ async def view_lists(ctx, member: discord.Member = None):
     user_id = str(member.id)
     user_data = data.get(user_id, {"trade": [], "wishlist": []})
     
-    trade_list = "\n".join(user_data["trade"]) or "None"
-    wishlist = "\n".join(user_data["wishlist"]) or "None"
+    trade_list = "\n".join([f'{entry["name"]} ({entry["set"]})' for entry in user_data["trade"]]) or "None"
+    wishlist = "\n".join([f'{entry["name"]} ({entry["set"]})' for entry in user_data["wishlist"]]) or "None"
     
     embed = discord.Embed(title=f"{member.display_name}'s Lists", color=discord.Color.blue())
     embed.add_field(name="Trade List", value=trade_list, inline=False)
     embed.add_field(name="Wishlist", value=wishlist, inline=False)
+    
+    await ctx.send(embed=embed)
+
+@bot.command()
+async def h(ctx):
+    """Show help information for all commands."""
+    embed = discord.Embed(title="Help", description="List of available commands", color=discord.Color.green())
+    embed.add_field(name="!add_trade <card_name> <card_set>", value="Add a card to your trade list. Example - Bulbasaur A1", inline=False)
+    embed.add_field(name="!add_wishlist <card_name> <card_set>", value="Add a card to your wishlist. Example - Bulbasaur A1", inline=False)
+    embed.add_field(name="!remove_trade <card_name> <card_set>", value="Remove a card from your trade list. Example - Bulbasaur A1", inline=False)
+    embed.add_field(name="!remove_wishlist <card_name> <card_set>", value="Remove a card from your wishlist. Example - Bulbasaur A1", inline=False)
+    embed.add_field(name="!view_lists [member]", value="View your or another user's trade and wishlist. Example - Bulbasaur A1", inline=False)
+    # embed.add_field(name="!scrape", value="Manually trigger a web scrape to update the card data.", inline=False)
+    embed.add_field(name="!hello", value="Gee I wonder?", inline=False)
+    embed.add_field(name="!help", value="Show this help message.", inline=False)
+    embed.add_field(name="!wisdom", value="WIP", inline=False)
     
     await ctx.send(embed=embed)
 
